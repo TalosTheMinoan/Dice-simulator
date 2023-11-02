@@ -26,7 +26,8 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-Make sure you have Python and the required libraries installed:
+Make sure you have Python installed 
 
-```bash
-pip install tkinter Pillow
+### Run the programm
+
+**Run the python script by doing in the cmd python dice.py**
